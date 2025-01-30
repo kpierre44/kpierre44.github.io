@@ -1,0 +1,32 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #e8b7d1; 
+    padding: 10px 0;
+}
+
+.menu {
+    list-style: none;
+    text-align: center;
+}
+
+.menu li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 15px;
+}
+
+.menu li a:hover {
+    background-color: #555;
+    border-radius: 5px;
+}
